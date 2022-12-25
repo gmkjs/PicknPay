@@ -1,0 +1,15 @@
+.lform{
+height: 350px;
+width: 300px;
+margin: auto;
+margin-top: 7%;
+
+}
+
+.ctr{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   
+}
