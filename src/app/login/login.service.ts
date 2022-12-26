@@ -10,7 +10,7 @@ export class LoginService {
   validateUser(data:any){
     console.log(data,'hhh');
 
-    if(data.email=='code@gmk.com' && data.password=='code@1243'){
+    if(data.email=='code@gmk.com' && data.password=='welcome'){
 
       return true;
 
